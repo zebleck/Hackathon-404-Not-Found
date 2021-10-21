@@ -11,8 +11,8 @@ https://data.cese.nsw.gov.au/data/dataset/resource-allocation-model
 https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/3910394c0d3543f86dec936848257bc00023a005/%24file/tp-394.pdf
 	remoteness of schools verteilung für künstlichen datensatz S.28
 
-[Master dataset: NSW government school locations and student enrolment numbers - Dataset - NSW Education Data Hub](https://data.cese.nsw.gov.au/data/dataset/nsw-public-schools-master-dataset)
-Relevanz: 
+[Master dataset: NSW government school locations and student enrolment numbers - Dataset - NSW Education Data Hub](https://data.cese.nsw.gov.au/data/dataset/nsw-public-schools-master-dataset)<br>
+Relevanz:<br>
 •	Latest_year_enrolment_FTE: wieviele schüler: maß für lehrerbedarf<br>
 •	Indigenous pct: maybe revelant für diversity?<br>
 •	Level of schooling + school_subtype: teacher preference/qualification<br>
