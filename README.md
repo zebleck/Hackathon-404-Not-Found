@@ -13,9 +13,9 @@ https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/3910
 
 [Master dataset: NSW government school locations and student enrolment numbers - Dataset - NSW Education Data Hub](https://data.cese.nsw.gov.au/data/dataset/nsw-public-schools-master-dataset)
 Relevanz: 
-•	Latest_year_enrolment_FTE: wieviele schüler: maß für lehrerbedarf
-•	Indigenous pct: maybe revelant für diversity?
-•	Level of schooling + school_subtype: teacher preference/qualification
-•	ICSEA value: About ICSEA 2016 (acara.edu.au) not sure wie das miteinbezogen wird
-•	LBOTE: LBOTE - What does LBOTE stand for? The Free Dictionary language background other than English, not sure wie das miteinbezogen wird
+•	Latest_year_enrolment_FTE: wieviele schüler: maß für lehrerbedarf<br>
+•	Indigenous pct: maybe revelant für diversity?<br>
+•	Level of schooling + school_subtype: teacher preference/qualification<br>
+•	ICSEA value: About ICSEA 2016 (acara.edu.au) not sure wie das miteinbezogen wird<br>
+•	LBOTE: LBOTE - What does LBOTE stand for? The Free Dictionary language background other than English, not sure wie das miteinbezogen wird<br>
 •	Lon, Lat: Position
