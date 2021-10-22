@@ -1,0 +1,112 @@
+
+FRAGEN:
+- wie lange soll Präsentation gehen? -> 15min
+- an wen geht die Präsentation?
+- braucht man Gliederung?
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+
+//mögliche Titel:
+allocation teacher <-> schools
+Responsible.computing(): Patterns for a bias free AI
+Challenge by IBM
+
+
+---------------------------------------------------------------------------
+
+
+Gliederung:
+============
+- exercise
+- strategy
+- IBM AI ethics
+- parameters
+- TODOs
+
+
+---------------------------------------------------------------------------
+
+
+exercise: 
+=========
+- allocation teacher <-> schools
+- precondition: teachers give their own preferences 
+
+
+---------------------------------------------------------------------------
+
+
+strategy:
+==========
+- orientation on scrum
+- visualize progress -> TODOs, timeline
+- check and evaluation of the results
+- adapt the plan    // -> often "one step backwards and then two steps forwards"
+- sprints with sprint-planning, sprint-review
+-> What can we do? How can we do it?
+
+
+---------------------------------------------------------------------------
+
+
+IBM AI ethics:
+===============
+- explainability
+- fairness
+- robustness (adversarial threads)
+- transparency
+- privacy
+
+// kurz was Stichwort bedeutet und kurz wie wir versucht haben das bei uns umzusetzen
+
+
+---------------------------------------------------------------------------
+
+
+parameters:
+============
+T = "interests of teacher"
+S = "interests of school"
+
+T - distance [km] // (third most important parameter!)
+T - time to travel [min]  -> 
+T - time to wait for prefered allocation [years]
+T - urban vs rural
+T - owning a car?
+S - needed subjects
+S - age-distribution // (the elder the teacher the more experience -> mix elder with younger; second most important parameter!)
+S - needed number of teachers // (-> maybe relation teacher / inhabitants in area; most important parameter!)
+S - teacher for special school
+
+// eingehen auf Gender?
+
+
+---------------------------------------------------------------------------
+
+
+TODO's:  // = Product Backlog
+=======
+- collect important parameters
+- weight parameters (which parameter is more important)
+- look for data-sets fitting to our parameters -> UK, Australia, others -> decided to choose Australia
+- check quality and usability of the chosen data-sets // by visualizing them ?
+- case if missing data: produce own data-sets by extending found data-sets and found statistics -> DataLoader
+- create easy modell (-> minimal viable product)
+- start testing (permanent until the end)
+- extend easy modell by including more parameters
+- optimization
+- design presentation
+
+
+---------------------------------------------------------------------------
+
+
+source of the data: (-> transparency)
+====================
+- Australia NSW data   // nochmal genauer nachschauen welche wir benutzt haben
+
+
+
